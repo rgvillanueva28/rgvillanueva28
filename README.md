@@ -1,6 +1,11 @@
 <div align="center">
 <h1 align="center">Hi. I am Rane Gillian Villanueva.</h1>
 <h3 align="center">I am currently a Bachelor of Science in Computer Engineering student at Mapúa University. I am interested to learn the fields of Cybersecurity, Web Development, Web 3.0, Mobile Development, Data Analysis and Visualization, and Artificial Intelligence.</h3>
+<p align="center">
+      <img align="center"
+         src="./profile-3d-contrib/profile-green-animate.svg"
+         alt="linkedin: ranegv" height="30"/>
+</p>
 </div>
 
 </br>
