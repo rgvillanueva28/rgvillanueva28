@@ -4,7 +4,7 @@
 <p align="center">
       <img align="center"
          src="./profile-3d-contrib/profile-green-animate.svg"
-         alt="linkedin: ranegv" height="30"/>
+         alt="Profile Contributions"/>
 </p>
 </div>
 
