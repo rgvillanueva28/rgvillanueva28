@@ -8,8 +8,6 @@
 </p>
 </div>
 
-</br>
-
 ---
 
 ## Links
@@ -17,19 +15,18 @@
 <p align="center">
       <a href="https://www.linkedin.com/in/ranegv/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="linkedin: ranegv" height="30"/></a>
+         alt="linkedin: ranegv" height="30" /></a>
       <a href="mailto:rgvillanueva28@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="email: rgvillanueva28@gmail.com" height="30"/></a>
+         alt="email: rgvillanueva28@gmail.com" height="30" /></a>
       <a href="https://www.ranevillanueva.com/" target="blank"><img align="center"
          src="https://img.shields.io/badge/WEBSITE-blue?style=for-the-badge&logo=Next.JS&logoColor=white"
-         alt="website: ranevillanueva.com" height="30"/></a>
-         <a href="https://www.ranevillanueva.com/" target="blank">
-       <p align="center">
-          <img width="50%" src="https://pagespeed-insights.herokuapp.com/?url=https://www.ranevillanueva.com" /></a>
+         alt="website: ranevillanueva.com" height="30" /></a>
+         </br>
+         </br>
+      <a href="https://www.ranevillanueva.com/" target="blank">
+          <img width="50%" src="https://pagespeed-insights.herokuapp.com/?url=https://www.ranevillanueva.com" alt="https://www.ranevillanueva.com/" /></a>
 </p>
-
-</br>
 
 ---
 
