@@ -28,7 +28,7 @@
          </br>
          </br>
       <a href="https://www.ranevillanueva.com/" target="blank">
-          <img width="50%" src="https://pagespeed-insights.herokuapp.com/?url=https://www.ranevillanueva.com" alt="https://www.ranevillanueva.com/" /></a>
+          <img width="50%" src="./pagespeed-insights/psi-result.svg" alt="https://www.ranevillanueva.com/" /></a>
 </p>
 
 ---
