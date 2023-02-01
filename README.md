@@ -3,7 +3,7 @@
 
 [![@rgvillanueva28's Holopin board](https://holopin.me/rgvillanueva28)](https://holopin.io/@rgvillanueva28)
 
-<h3 align="center">I am currently a Bachelor of Science in Computer Engineering student at Mapúa University. I am interested to learn the fields of Cybersecurity, Web Development, Web 3.0, Mobile Development, Data Analysis and Visualization, and Artificial Intelligence.</h3>
+<h3 align="center">I am a BS Computer Engineer graduate with specialization in Cybersecurity at Mapúa University. I am interested in the fields of Web2 & Web3 Development, Cybersecurity, Mobile Development, Data Analysis and Visualization, and Artificial Intelligence. I have also created several projects. Check out the portfolio tab or visit my GitHub for more information about these projects.</h3>
 <p align="center">
       <img align="center"
          src="./profile-3d-contrib/profile-green-animate.svg"
