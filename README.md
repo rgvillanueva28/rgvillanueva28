@@ -2,8 +2,12 @@
 <h1 align="center">Hi. I am Rane Gillian Villanueva.</h1>
 
 [![@rgvillanueva28's Holopin board](https://holopin.me/rgvillanueva28)](https://holopin.io/@rgvillanueva28)
+<h2 align="center">Security Analyst - Offensive Security ⚔️</h2>
 
-<h3 align="center">I am a BS Computer Engineer graduate with specialization in Cybersecurity at Mapúa University. I am interested in the fields of Web2 & Web3 Development, Cybersecurity, Mobile Development, Data Analysis and Visualization, and Artificial Intelligence. I have also created several projects. Check out the portfolio tab or visit my GitHub for more information about these projects.</h3>
+<h3 align="center">I am a Security Analyst with focus on Offensive Security. My expertise lies in Web Application Security Assessment, and I also have knowledge in API, Mobile, Network, and Active Directory VAPT, as well as Red Teaming.</h3>
+
+<h3 align="center">You can find my coding projects here, mostly for learning, though some are tools I use every day.</h3>
+
 <p align="center">
       <img align="center"
          src="./profile-3d-contrib/profile-green-animate.svg"
